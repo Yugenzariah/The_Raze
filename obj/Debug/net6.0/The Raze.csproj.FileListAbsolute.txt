@@ -1,0 +1,15 @@
+C:\Users\minit\Source\Repos\The_Raze\bin\Debug\net6.0\The Raze.exe
+C:\Users\minit\Source\Repos\The_Raze\bin\Debug\net6.0\The Raze.deps.json
+C:\Users\minit\Source\Repos\The_Raze\bin\Debug\net6.0\The Raze.runtimeconfig.json
+C:\Users\minit\Source\Repos\The_Raze\bin\Debug\net6.0\The Raze.dll
+C:\Users\minit\Source\Repos\The_Raze\bin\Debug\net6.0\The Raze.pdb
+C:\Users\minit\Source\Repos\The_Raze\obj\Debug\net6.0\The Raze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minit\Source\Repos\The_Raze\obj\Debug\net6.0\The Raze.AssemblyInfoInputs.cache
+C:\Users\minit\Source\Repos\The_Raze\obj\Debug\net6.0\The Raze.AssemblyInfo.cs
+C:\Users\minit\Source\Repos\The_Raze\obj\Debug\net6.0\The Raze.csproj.CoreCompileInputs.cache
+C:\Users\minit\Source\Repos\The_Raze\obj\Debug\net6.0\The Raze.sourcelink.json
+C:\Users\minit\Source\Repos\The_Raze\obj\Debug\net6.0\The Raze.dll
+C:\Users\minit\Source\Repos\The_Raze\obj\Debug\net6.0\refint\The Raze.dll
+C:\Users\minit\Source\Repos\The_Raze\obj\Debug\net6.0\The Raze.pdb
+C:\Users\minit\Source\Repos\The_Raze\obj\Debug\net6.0\The Raze.genruntimeconfig.cache
+C:\Users\minit\Source\Repos\The_Raze\obj\Debug\net6.0\ref\The Raze.dll

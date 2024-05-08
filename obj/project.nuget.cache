@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "5Xld6v0/K7Uqfj42XBZTXoBhZgcW6Vh81Lqwf10v8dmSs3HrUf70AeCuYNdUyEcl1gUtsNJA2wGqouzrx3mzMA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\minit\\Source\\Repos\\The_Raze\\The Raze.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\minit\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\minit\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\minit\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\minit\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
